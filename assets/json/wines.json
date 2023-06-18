@@ -1,0 +1,74 @@
+{
+    "genziana": {
+        "name": "Genziana",
+        "description" : "",
+        "producer": "Liquori Lantelme",
+        "imageUrl": "",
+        "pageUrl": ""
+    },
+    
+    "genepy_bianco": {
+        "name": "Genepy Bianco",
+        "description": "",
+        "producer": "Liquori Lantelme",
+        "imageUrl": "",
+        "pageUrl": ""
+    },
+    
+    "genepy_sestriere": {
+        "name": "Genepy Sestriere",
+        "description": "",
+        "producer": "Liquori Lantelme",
+        "imageUrl": "",
+        "pageUrl": ""
+    },
+    
+    "gin_planet": {
+        "name": "Gin Planet",
+        "description": "",
+        "producer": "Liquori Lantelme",
+        "imageUrl": "",
+        "pageUrl": ""
+    },
+    
+    "barbera": {
+        "name": "Barbera",
+        "description": "",
+        "producer": "La Rivà",
+        "imageUrl": "",
+        "pageUrl": ""
+    },
+    
+    "blanchet": {
+        "name": "Blanchet",
+        "description": "",
+        "producer": "La Rivà",
+        "imageUrl": "",
+        "pageUrl": ""
+    },
+    
+    "doux_henry": {
+        "name": "Doux Henry",
+        "description": "",
+        "producer": "La Rivà",
+        "imageUrl": "",
+        "pageUrl": ""
+    },
+    
+    "le_masche": {
+        "name": "Le Masche",
+        "description": "",
+        "producer": "La Rivà",
+        "imageUrl": "",
+        "pageUrl": ""
+    },
+    
+    "ramie": {
+        "name": "Ramìe",
+        "description": "",
+        "producer": "La Rivà",
+        "imageUrl": "",
+        "pageUrl": ""
+    }
+}
+

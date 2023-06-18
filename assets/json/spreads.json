@@ -1,0 +1,57 @@
+{
+    "arachide": {
+        "name": "Peanuts",
+        "description": "",
+        "producer": "Cioccolato Puro",
+        "imageUrl": "",
+        "pageUrl": ""
+    },
+    
+    "cocco": {
+        "name": "Coconut",
+        "description": "",
+        "producer": "Cioccolato Puro",
+        "imageUrl": "",
+        "pageUrl": ""
+    },
+    
+    "dark": {
+        "name": "Dark",
+        "description": "",
+        "producer": "Cioccolato Puro",
+        "imageUrl": "",
+        "pageUrl": ""
+    },
+    
+    "extra": {
+        "name": "Extra Dark",
+        "description": "",
+        "producer": "Cioccolato Puro",
+        "imageUrl": "",
+        "pageUrl": ""
+    },
+    
+    "original": {
+        "name": "Original",
+        "description": "",
+        "producer": "Cioccolato Puro",
+        "imageUrl": "",
+        "pageUrl": ""
+    },
+    
+    "pistacchio": {
+        "name": "Pistachio",
+        "description": "",
+        "producer": "Cioccolato Puro",
+        "imageUrl": "",
+        "pageUrl": ""
+    },
+    
+    "zero": {
+        "name": "Zero Sugar",
+        "description": "",
+        "producer": "Cioccolato Puro",
+        "imageUrl": "",
+        "pageUrl": ""
+    }
+}
